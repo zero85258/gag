@@ -1,5 +1,7 @@
 # hybrid_rudiments
 
+* cheese 化 flam 感覺就很玩到精神了
+
 ```bash
 # list imgcat 
 ls imgs | xargs -I {} echo "imgcat imgs/{};"
